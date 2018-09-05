@@ -1,0 +1,6 @@
+.boards-layout {
+	display: flex;
+	padding: 20px;
+	overflow-x: auto;
+	min-height: calc(100vh - 110px);
+}

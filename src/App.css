@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.page-header {
+	margin: 0;
+	padding: 20px 0;
+	background: #bebbc11c;
+}
+
+.page-header h1 {
+	margin: 0;
+}
+
+

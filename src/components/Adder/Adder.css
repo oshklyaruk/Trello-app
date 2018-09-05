@@ -1,0 +1,24 @@
+.adder {
+	margin-top: 5px;
+}
+
+.input-wrapper {
+  background: #bebbc11c;
+  border-radius: 3px;
+  border: 1px solid #eee;
+  padding: 3px;
+  text-align: left;
+  min-width: 200px;
+  position: relative;
+}
+
+.input-wrapper input {
+  margin-bottom: 3px;
+}
+
+.input-wrapper .glyphicon-font {
+	position: absolute;
+  bottom: 12px;
+  right: 9px;
+  top: auto;
+}
